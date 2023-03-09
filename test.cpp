@@ -2,7 +2,6 @@
 #include<iostream>
 #include<cstring>
 #include<cmath>
-#include<iomanip>
 using namespace std;
 int arr[7][7];
 int sumMatrix(int row, int col, int m)
